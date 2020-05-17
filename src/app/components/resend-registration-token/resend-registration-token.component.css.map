@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "resend-registration-token.component.scss"
+    ],
+    "names": [],
+    "file": "resend-registration-token.component.css"
+}

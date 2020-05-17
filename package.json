@@ -14,7 +14,7 @@
     "@angular/animations": "~8.2.14",
     "@angular/common": "~8.2.14",
     "@angular/compiler": "^8.2.14",
-    "@angular/core": "~8.2.14",
+    "@angular/core": "^8.2.14",
     "@angular/forms": "~8.2.14",
     "@angular/http": "^7.2.16",
     "@angular/platform-browser": "~8.2.14",
@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.23",
-    "@angular/cli": "~8.3.23",
+    "@angular/cli": "8.0.0-rc.0",
     "@angular/compiler-cli": "^8.2.14",
     "@angular/language-service": "~8.2.14",
     "@types/jasmine": "~2.8.8",
